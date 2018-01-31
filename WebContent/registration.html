@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>Shopaholic Stop</title>
+<link rel="icon" href="images/logo.jpg" type="image/x-icon">
+<link rel="stylesheet" href="rs.css"> 
+<script type="text/javascript" src="registration.js"> </script>
+</head>
+<body>
+	<header>
+		<div class="main"  >
+			<div class="navbar">
+				<a href="registration.html">Register</a> &nbsp &nbsp
+				<a href="login.html">Login</a>&nbsp &nbsp
+				<a href="Forgot.jsp">Forgot your password?</a> &nbsp &nbsp
+				<a href="" style="margin-right:20px">+918143656203(Mr.Rajesh)</a>
+			</div>
+			<span><a href="home.html"><img src="images/logo.jpg" alt="Rs Shopaholic Stop" width="100px" height="100px" style="float:left; margin-left:50px; margin-top:10px;" ></span></a>
+			<div class="name">
+				<span style="margin-left:50px"><strong>Shopaholic Stop</strong></span>
+			</div>
+			<input type="text" name="search" placeholder="Type your Brand to shop">
+		</div>
+		<center>
+		<ul>
+			<li><a class="menu-bar-margin" href="home.html">Home</a></li>
+			<li><a href="men.html">Men</a></li>
+			<li><a href="women.html">Women</a></li>
+			<li><a href="children.html">Children</a></li>
+			<li><a href="electronics.html">Electronics</a></li>
+			<li><a href="furniture.html">Furniture</a></li>
+			<li><a href="decoratory.html">Decoratory</a></li>
+			<li><a href="kitchen.html">Kitchen Utensils</a></li>
+		</ul>
+	</center>
+	</header>
+	
+	
+<div class= "regist">
+<div style="margin-top:200px;color:#581845">
+<center>
+<h2>Provide your details to register</h2>
+ <form action="OTPSender" method="post">
+<table style="width:100%;margin-left:200px;margin-top:0px;" >
+    <tr>
+    <td><label>First name:</label> </td>
+	<td><input type="text" name="fn" required></td>
+	</tr>
+	<tr>
+    <td><label>Last name:</label></td> 
+	<td><input type="text" name="ln" required><br> </td>
+	</tr>
+	<tr>
+	<td><label>Gender</label></td>
+	<td><label>Male</label><input type="radio"  class="gender" name="gender" value="Male" id="m" required>
+	<label>Female</label><input type="radio"  class="gender" name="gender"value="Female" id="n" required>
+	</td>
+	</tr>
+	<tr>
+			<td><label>Age</label></td>
+			<td><input type="text" name="age" required></td>	
+	<tr>
+			<td><label>Mobile Number</label></td>
+			<td><input type="number" name="mn" size="10" required><br> </td>
+	</tr>
+	<tr>
+			<td><label>E-mail</label></td>
+			<td><input type="email" name="email" required><br></td>
+	</tr>
+	<tr>
+			<td><label>Password</label></td>
+			<td><input type="password" name="password" id="pass" required></td>
+	</tr>
+	<tr>
+	<td><label>Confirm Password</label></td>
+	<td><input type="password" name="confirm" id="confirm" required></td>
+	</tr>
+	
+	
+   </table>
+   
+   </center>
+
+ <script type="text/javascript">
+    function Validate() {
+        var password = document.getElementById("password").value;
+        var confirm = document.getElementById("confirm").value;
+        if (password != confirm) {
+            alert("Passwords do not match.");
+            return false;
+        }
+        return true;
+    }
+</script>
+ 
+<div style="margin-left:570px">
+<input type="submit"  value="Register" onclick="return Validate()" ></input>
+ 
+</div>
+</form>
+
+
+</div>
+</div>
+<footer >
+<center><span><img src="images/logo.jpg" width="50px" height="50px"> </span>&nbsp <br>Copyright@Shopaholic Reserved 2017</center>
+</footer>
+
+</body>
+</html>
