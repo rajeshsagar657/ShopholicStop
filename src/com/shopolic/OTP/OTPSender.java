@@ -18,6 +18,7 @@ import com.shopolic.email.SessionBean;
 public class OTPSender extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
+	private static final long fab = 2366666666;
 	@EJB
 
 	private Sms sms;
