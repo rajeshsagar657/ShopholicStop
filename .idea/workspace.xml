@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c4ead3d-3a64-44db-bfbd-e5f401b2a004" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShopholicStop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/Images/DisplayImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/Images/imageinserting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/OTP/OTPSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/OTP/Sms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/email/MailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/email/SessionBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/loginValidation/ForgotPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/loginValidation/RegistrationUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/loginValidation/Success.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/loginValidation/loginCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/productDescribtion/DisplayDesc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/com/shopolic/products/sale1.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ar89Jz5OfsJVwZoCQ3zm0SL0M1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="imageinserting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shopolic.Images.imageinserting" />
+      <module name="ShopholicStop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopolic.Images.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#JAVA_HOME" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.imageinserting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c4ead3d-3a64-44db-bfbd-e5f401b2a004" name="Default Changelist" comment="" />
+      <created>1587482199648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587482199648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587482243310">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1587482243310" />
+    <state x="554" y="359" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587482236065">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="554" y="359" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1587482236065" />
+    <state x="383" y="225" width="673" height="472" key="find.popup" timestamp="1587482323122">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="383" y="225" width="673" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1587482323122" />
+  </component>
+</project>

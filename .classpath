@@ -15,6 +15,7 @@
 	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/cos.jar"/>
 	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/jsp-api-2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/activation.jar"/>
-	<classpathentry kind="lib" path="C:/Users/nisumconsuting/Downloads/servlet-api.jar/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/nisum/ShopholicStop/WebContent/WEB-INF/lib/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

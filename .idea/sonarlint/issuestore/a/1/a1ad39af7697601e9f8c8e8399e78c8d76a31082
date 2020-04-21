@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡‘ãÉ
+>
+java:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(³ûèş
+u
+java:S1149?"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(çÍÈ
+4
+java:S2119'"Save and re-use this "Random".(–áÍÈ
+M
+java:S1135G"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+=
+java:S1068"'Remove this unused "fab" private field.(³ûèş
